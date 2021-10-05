@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(233): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(240): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(521): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(521): note: 請考慮在格式字串中使用 '%zd'
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(521): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+  c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(521): note: 請考慮在格式字串中使用 '%zd'
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(533): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(558): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\mraychu\downloads\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(578): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  OpenGLFramework-VS2017.vcxproj -> C:\Users\mraychu\Downloads\AS01_Framework\HW1_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.exe
