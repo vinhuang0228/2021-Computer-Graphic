@@ -1,0 +1,40 @@
+﻿  main.cpp
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(319): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(443): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(444): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(517): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(607): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(612): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(617): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(622): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(625): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(628): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(633): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(637): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(641): warning C4244: '+=': conversion from 'double' to 'GLint', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(646): warning C4244: '+=': conversion from 'double' to 'GLint', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(681): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(682): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(688): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(689): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(694): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(695): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(700): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(701): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(706): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(707): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(710): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(711): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(714): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(715): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(720): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(724): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(728): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1015): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1081): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1081): note: consider using '%zd' in the format string
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1081): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1081): note: consider using '%zd' in the format string
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1141): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\圖學\hw3\openglframework-vs2017\openglframework-vs2017\main.cpp(1202): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLFramework-VS2017.vcxproj -> E:\圖學\HW3\OpenGLFramework-VS2017\x64\Debug\OpenGLFramework-VS2017.exe

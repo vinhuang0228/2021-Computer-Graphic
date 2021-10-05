@@ -1,0 +1,28 @@
+﻿  main.cpp
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(339): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(462): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(467): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(467): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(536): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(539): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(542): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(547): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(551): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(555): warning C4244: '+=': conversion from 'double' to 'GLint', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(560): warning C4244: '+=': conversion from 'double' to 'GLint', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(587): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(590): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(593): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(597): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(601): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(605): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(611): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(612): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(857): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(857): note: consider using '%zd' in the format string
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(857): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(857): note: consider using '%zd' in the format string
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(887): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(919): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\圖學\hw2\hw2_vs2017_framework\openglframework-vs2017\main.cpp(952): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLFramework-VS2017.vcxproj -> E:\圖學\HW2\HW2_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.exe

@@ -1,0 +1,25 @@
+﻿  main.cpp
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(327): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(334): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(497): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(500): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(503): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(506): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(510): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(514): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(532): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(535): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(538): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(541): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(545): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(549): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(554): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(555): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(770): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(770): note: consider using '%zd' in the format string
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(770): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'unsigned __int64'
+  e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(770): note: consider using '%zd' in the format string
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(782): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(807): warning C4305: '=': truncation from 'double' to 'GLfloat'
+e:\圖學\hw0\as01_framework\hw1_vs2017_framework\openglframework-vs2017\main.cpp(827): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  OpenGLFramework-VS2017.vcxproj -> E:\圖學\HW0\AS01_Framework\HW1_VS2017_Framework\x64\Debug\OpenGLFramework-VS2017.exe
